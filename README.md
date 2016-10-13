@@ -9,5 +9,6 @@ Java 7
 * Log4j
 * JUnit
 
-Java Project for SQA Boot Camp October 3.
+Java Project for SQA Boot Camp October 12.
+https://github.com/akara87
 
