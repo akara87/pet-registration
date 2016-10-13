@@ -4,8 +4,8 @@
 	<groupId>com.AK</groupId>
 	<artifactId>auto-project</artifactId>
 	<version>1.0-SNAPSHOT</version>
-	<name>Basic Project</name>
-	<description>Basic Java Project for Java Applications</description>
+	<name>pet-registration</name>
+	<description>Pet-registration Java Application</description>
 
 	<dependencies>
 		<dependency>
